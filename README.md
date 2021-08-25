@@ -1,6 +1,6 @@
 ### Hi there
 
-I am an aspiring software engineer. Keen to work hard and gain new skills!
+I am an aspiring software engineer. Driven to build useful tools and gain new skills!
 
  Currently working on: a game to help students memorise flashcards @lewagon
 <!--
