@@ -1,7 +1,7 @@
 ### Hi there
 
-I am an aspiring software engineer. Keen to work hard and gain new skills!/n
-Currently working on: a game to help students memorise flashcards @lewagon
+### I am an aspiring software engineer. Keen to work hard and gain new skills!
+### Currently working on: a game to help students memorise flashcards @lewagon
 <!--
 **anjadrayton/anjadrayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
