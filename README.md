@@ -2,7 +2,7 @@
 
 I am an aspiring software engineer. Driven to build useful tools and gain new skills!
 
- Currently working on: a game to help students memorise flashcards @lewagon
+ Currently working on: a web game to help students memorise flashcards @lewagon
 <!--
 **anjadrayton/anjadrayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
