@@ -2,7 +2,7 @@
 
 <h3 align="center">I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
 
-I’m currently working on Currently working on: a [web game] to help students memorise flashcards @lewagon(https://github.com/anjadrayton/fly-flashcards)
+I’m currently working on Currently working on: a [web game](https://github.com/anjadrayton/fly-flashcards) to help students memorise flashcards @lewagon
 
 Please reach out - anja.drayton@gmail.com
 
