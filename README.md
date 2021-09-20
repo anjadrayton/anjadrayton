@@ -16,6 +16,12 @@ Please reach out - anja.drayton@gmail.com
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <h3 align="left">Github Stats</h3>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anjadrayton&show_icons=true&locale=en" alt="anjadrayton" /></p>
