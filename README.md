@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm Anja</h1>
 
 <h3 align="center">I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
+<br>
+
 
 I’m currently working on Currently working on: a [web game](https://github.com/anjadrayton/fly-flashcards) to help students memorise flashcards @lewagon
 
