@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1>
+<h1 align="center">Hi there, I'm Anja</h1>
 
 <h3 align="center">I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
 
