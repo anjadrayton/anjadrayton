@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Anja</h1>
+<h1>Hi there, I'm Anja</h1>
 
-<h3 align="center">I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
+<h3>I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
 <br>
 
 
@@ -14,7 +14,9 @@ Please reach out - anja.drayton@gmail.com
   
  </p>
 
-
+<br>
+<br>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjadrayton&show_icons=true&locale=en&layout=compact" alt="anjadrayton" /></p>
 <br>
