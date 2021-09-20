@@ -4,7 +4,7 @@
 <br>
 
 
-I’m currently working on Currently working on: a [web game](https://github.com/anjadrayton/fly-flashcards) to help students memorise flashcards @lewagon
+I’m currently working on a [web game](https://github.com/anjadrayton/fly-flashcards) to help students memorise flashcards @lewagon
 
 Please reach out - anja.drayton@gmail.com
 <br>
