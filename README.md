@@ -7,6 +7,7 @@
 I’m currently working on a [web game](https://github.com/anjadrayton/fly-flashcards) to help students memorise flashcards @lewagon
 
 Please reach out - anja.drayton@gmail.com
+Or connect via LinkedIn - linkedin.com/in/anjadrayton
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
