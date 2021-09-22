@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Anja</h1>
 
-<h3>I am an aspiring software engineer. Driven to build useful tools and gain new skills!</h3>
+<h3>I am an aspiring software engineer. Driven to build useful tools and develop my skills!</h3>
 <br>
 
 
